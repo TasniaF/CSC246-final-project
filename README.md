@@ -1,52 +1,83 @@
-# GitHub Community Discussions
+# Project Title
 
-In this repository, you will find categories for various product areas. Feel free to share feedback, discuss topics with other community members, or ask questions.
+## Authors
 
-## Product Feedback
+ - name 1 (with optional link to github profiles)
+ - name 2 (with optional link to github profiles)
+ - name 3 (with optional link to github profiles)
 
-| **Feedback Category** | **About the Product** 	|
-|---	|---	|
-| 👍 [Accessibility](https://github.com/orgs/community/discussions/categories/accessibility) | [About Accessibility](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-accessibility-settings#about-accessibility-settings) |
-| 🚢 [Actions](https://github.com/orgs/community/discussions/categories/actions) | [GitHub Actions](https://github.com/features/actions) |
-| 🔗 [Apps, API and Webhooks](https://github.com/orgs/community/discussions/categories/apps-api-and-webhooks) | [GitHub Apps](https://docs.github.com/en/apps), [GitHub REST API](https://docs.github.com/en/rest), [GitHub GraphQL API](https://docs.github.com/en/graphql), and [GitHub Webhooks](https://docs.github.com/en/webhooks) |
-| 🤖 [Code Security](https://github.com/orgs/community/discussions/categories/code-security) | [GitHub Code Security](https://github.com/features/security) |
-| 💻 [Codespaces](https://github.com/orgs/community/discussions/categories/codespaces) | [GitHub Codespaces](https://github.com/features/codespaces) |
-| :copilot: [Copilot Conversations](https://github.com/orgs/community/discussions/categories/copilot-conversations) | [GitHub Copilot](https://copilot.github.com/) |
-| 🗣️ [Discussions](https://github.com/orgs/community/discussions/categories/discussions) | [GitHub Discussions](https://docs.github.com/en/discussions) |
-| 🏢 [Enterprise](https://github.com/orgs/community/discussions/categories/enterprise) | [GitHub Enterprise](https://docs.github.com/en/enterprise-cloud@latest) |
-| 🎒 [GitHub Education](https://github.com/orgs/community/discussions/categories/github-education) | [GitHub Education](https://education.github.com/) |
-| 🏆 [GitHub Learn](https://github.com/orgs/community/discussions/categories/github-learn) | [GitHub Certifications](https://resources.github.com/learn/certifications/), [Learning Pathways](https://resources.github.com/learn/pathways/), and [GitHub Skills](https://skills.github.com/) |
-| 📱 [Mobile](https://github.com/orgs/community/discussions/categories/mobile) | [GitHub Mobile](https://github.com/mobile) |
-| 🟥 [npm](https://github.com/orgs/community/discussions/categories/npm) | [npm](https://docs.npmjs.com/) |
-| 📦 [Packages](https://github.com/orgs/community/discussions/categories/packages) | [GitHub Packages](https://github.com/features/packages) |
-| 💡 [Programming Help](https://github.com/orgs/community/discussions/categories/programming-help) | General programming questions and help |
-| 🐙 [Projects and Issues](https://github.com/orgs/community/discussions/categories/projects-and-issues) | [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects) / [GitHub Issues](https://github.com/features/issues) |
-| ✔️ [Pull Requests](https://github.com/orgs/community/discussions/categories/pull-requests) | [GitHub Pull Requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) |
-| 🗳️ [Repositories](https://github.com/orgs/community/discussions/categories/repositories) | [GitHub Repositories](https://docs.github.com/en/repositories) |
-| 👋 [Welcome to GitHub](https://github.com/orgs/community/discussions/categories/a-welcome-to-github) | Community introductions — say hi and share what you're working on |
-| 🧩 [Other Features and Feedback](https://github.com/orgs/community/discussions/categories/other-feature-feedback-questions-ideas) | [Code Search & Navigation](https://cs.github.com/about), [Feed](https://github.blog/2022-03-22-improving-your-github-feed/), [Lists](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars#organizing-starred-repositories-with-lists), [Models](https://github.com/features/preview/copilot-models), [Pages](https://docs.github.com/en/pages), [Profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile), and [Sponsors](https://github.com/sponsors) |
+## Project Statement
 
-These discussions are where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the GitHub product team. Check out [Making suggestions](#making-suggestions) to learn how to provide feedback.
+Project statement should be here.
 
-## Discussions Categories
+![sample image](sample-image.png "Sample Image")
+ 
+## Examples
 
-When creating a new post, make sure to choose the predetermined category that best fits your topic. This will ensure that conversations are indexed by their corresponding product or feature, to help community members quickly find answers to their questions.
+put 2-3 small examples here
 
-This repository works in conjunction with the [GitHub public product roadmap](https://github.com/github/roadmap), which is where you can learn about what features we're working on, and when they'll be available. Accordingly, the Issues feature of this repository has been disabled. Discussion categories have been established for specific features listed above, as well as a general category for other topics. Additional categories may be added in the future. In the meantime, topics outside of the listed categories above, will be transferred into the General category. Please review the [CODE OF CONDUCT](https://docs.github.com/en/site-policy/github-terms/github-community-forum-code-of-conduct) before participating in discussions.
 
-## Making suggestions
+### Example 1:
 
-We encourage you to [open a discussion](https://github.com/orgs/community/discussions) if you have suggestions for how we can improve our products. You don't need to have a solution to the problem you are facing to kick off a discussion. 
+**Input:** `nums = [2,7,11,15]`, `target = 9`
 
-Prior to creating a new discussion, please take a look at previous discussions to see if someone else has already shared your suggestion(s). If you find a similar discussion, reply with additional details or upvote the discussion to signal your support rather than creating a new one.
+**Output:** `[0,1]`
 
-### From a suggestion to a shipped feature
+**Explanation:** Because `nums[0] + nums[1] == 9`, we return `[0, 1]`.
 
-Once you kick off a discussion, the GitHub product team will evaluate the feedback but will not be able to respond to every submission. From there, we will work with you, and the entire community, to ensure we understand the current capabilities GitHub doesn’t have and explore the space for potential solutions to your problem statement:
+## Constraints
 
-- If the product team determines that we are going to prioritize a feature to solve the problem you've identified, we may open an issue and track its development in the [public roadmap](https://github.com/github/roadmap).
-- If the product team determines that we will not be working to solve the problem you have identified, we may comment on the discussion describing our reasoning so our decisions can remain transparent.
+- Constraint 1
+- Constraint 2
 
-## Disclaimer
 
-Any statement in this repository that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this repository are based on information available to GitHub as of the date they are made, and GitHub assumes no obligation to update any forward-looking statements. The forward-looking comments in the public feedback discussions do not represent a commitment, guarantee, obligation or promise to deliver any product or feature, or to deliver any product and feature by any particular date, and are intended to outline the general development plans. Customers should not rely on these public feedback discussions to make any purchasing decision.
+### Topics
+
+- binary tree
+- depth first search
+
+### Level
+
+- Easy
+
+## Code (stub to show parameters, return type, and definitions)
+
+```java
+// put your Java stub code here
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        // code here
+
+    }
+}
+```
+
+## Test cases
+
+### Test Case 1
+
+`nums = [2,7,11,15]`
+
+`target = 9`
+
+## Solutions
+
+- Include two (or more) solutions, one in Java and one in another language.
+- Each **must** explain in detail how to run it (where it will run as presented.)
+- The code must include all needed libraries and be well-documented with commenting.
+
+[Java](javasolution.java)
+
+[Python](pythonsolution.py)
+
+[C++](cppsolution.cpp)
+
+[complexity analysis](complexity.md)
+
+## Video on (add project title here)
+
+To deepen understanding of (add project topic here) see [Add title of Video here](Add full URL to video here)
+
+## References (for all ideas not our own)
+
+- [Reference 1](link to reference 1)
